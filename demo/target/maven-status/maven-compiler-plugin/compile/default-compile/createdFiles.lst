@@ -1,0 +1,11 @@
+com\webtrekk\demo\swagger\SwaggerConfig.class
+com\webtrekk\demo\controller\MailController.class
+com\webtrekk\demo\DemoApplication.class
+com\webtrekk\demo\serialize\EMailDeSerializer.class
+com\webtrekk\demo\service\IEMailService.class
+com\webtrekk\demo\data\EMailData.class
+com\webtrekk\demo\producer\ProducerCreator.class
+com\webtrekk\demo\constants\IKafkaConstants.class
+com\webtrekk\demo\serialize\EMailSerializer.class
+com\webtrekk\demo\consumer\ConsumerCreator.class
+com\webtrekk\demo\service\impl\EMailService.class

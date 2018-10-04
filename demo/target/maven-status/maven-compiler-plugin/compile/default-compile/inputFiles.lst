@@ -1,0 +1,11 @@
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\constants\IKafkaConstants.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\consumer\impl\ConsumerCreator.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\serialize\EMailSerializer.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\service\IEMailService.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\data\EMailData.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\DemoApplication.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\controller\MailController.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\swagger\SwaggerConfig.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\producer\impl\ProducerCreator.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\service\impl\EMailService.java
+C:\MyWorkspace2\demo\src\main\java\com\webtrekk\demo\serialize\EMailDeSerializer.java
