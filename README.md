@@ -1,5 +1,5 @@
 # MailService
-An Asyncronous Mail Service developed using Spring Boot + Kafka + Swagger + Java Mail
+An Asynchronous Mail Service developed using Spring Boot + Kafka + Swagger + Java Mail
 
 Start zookeper and kafka
 
